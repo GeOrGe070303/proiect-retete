@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="conector baze date java">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../conector baze date java" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../conector baze date java/src/build/java" />
+      <root url="file://$PROJECT_DIR$/../../conector baze date java/src/demo/java" />
+      <root url="file://$PROJECT_DIR$/../../conector baze date java/src/generated/java" />
+      <root url="file://$PROJECT_DIR$/../../conector baze date java/src/legacy/java" />
+      <root url="file://$PROJECT_DIR$/../../conector baze date java/src/main/core-api/java" />
+      <root url="file://$PROJECT_DIR$/../../conector baze date java/src/main/core-impl/java" />
+      <root url="file://$PROJECT_DIR$/../../conector baze date java/src/main/protocol-impl/java" />
+      <root url="file://$PROJECT_DIR$/../../conector baze date java/src/main/user-api/java" />
+      <root url="file://$PROJECT_DIR$/../../conector baze date java/src/main/user-impl/java" />
+      <root url="file://$PROJECT_DIR$/../../conector baze date java/src/test/java" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../conector baze date java" recursive="false" />
+  </library>
+</component>
